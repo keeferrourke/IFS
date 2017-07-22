@@ -1,0 +1,6 @@
+{
+"feedback": [
+{"feedback": "initialization makes integer from pointer without a cast [-Wint-conversion]", "filename": "array.c", "lineNum": "16", "toolName": "gcc", "charPos": "10", "type": "warning"}
+]
+}
+

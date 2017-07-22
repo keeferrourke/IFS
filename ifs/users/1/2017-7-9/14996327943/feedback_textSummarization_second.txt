@@ -1,0 +1,13 @@
+{
+"feedback": [
+{
+"toolName": "textSummarization",
+"type": "textSummarization",
+"filename": "users/1/2017-7-9/14996327943/second.txt",
+"originalname": "second.txt",
+"senCount":1,
+"feedback": "Here we hap a really long line with another two one anoter"
+}
+]
+}
+

@@ -1,0 +1,13 @@
+{ "feedback": [ {"target": "   L",
+"lineNum": 2,
+"charNum": 92,
+"charPos": 35,
+"severity": "warning",
+"type": "recommendation",
+"toolName": "Prose Linter",
+"filename": "second.txt",
+"feedback":"More than two spaces after the period; use 1 or 2.",
+"suggestions": []
+}]
+}
+

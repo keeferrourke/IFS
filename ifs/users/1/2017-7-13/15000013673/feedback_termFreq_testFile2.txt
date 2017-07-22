@@ -1,0 +1,77 @@
+{
+"feedback": [
+{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "cause",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "nedes",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "errrors",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "addresser",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "correctly",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "test",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "spelt",
+"charPos": 1
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000013673/testFile2.txt",
+"feedback": "errors",
+"charPos": 1
+}
+]
+}
+

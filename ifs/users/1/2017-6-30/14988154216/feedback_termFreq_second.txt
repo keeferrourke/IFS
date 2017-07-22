@@ -1,0 +1,45 @@
+{
+"feedback": [
+{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988154216/second.txt",
+"feedback": "line",
+"charPos": 3
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988154216/second.txt",
+"feedback": "another",
+"charPos": 2
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988154216/second.txt",
+"feedback": "hap",
+"charPos": 1
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988154216/second.txt",
+"feedback": "somethnig",
+"charPos": 1
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988154216/second.txt",
+"feedback": "adding",
+"charPos": 1
+}
+]
+}
+

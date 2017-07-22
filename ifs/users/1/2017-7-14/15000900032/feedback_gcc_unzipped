@@ -1,0 +1,7 @@
+{
+"feedback": [
+{"feedback": "C++ style comments are not allowed in ISO C90", "filename": "hanoi.c", "lineNum": "1", "toolName": "gcc", "charPos": "1", "type": "error"},
+{"feedback": "(this will be reported only once per input file)", "filename": "hanoi.c", "lineNum": "1", "toolName": "gcc", "charPos": "1", "type": "error"}
+]
+}
+

@@ -1,0 +1,110 @@
+{ "feedback": [],
+"feedbackStats": [
+{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "avg characters per word",
+"statValue": 5.39
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "Coleman-Liau",
+"statValue": 12.3
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "Fog Index",
+"statValue": 12.6
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "Kincaid",
+"statValue": 9.2
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "average sentences per paragraph",
+"statValue": 114.0
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "at most N words",
+"statValue": 3
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "character count",
+"statValue": 5127
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "long sentences percentage",
+"statValue": 0
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "longNum",
+"statValue": 0
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "at least N words",
+"statValue": 18
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "ARI",
+"statValue": 8.1
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "short sentences percentage",
+"statValue": 15
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "Flesch Index",
+"statValue": 44.2
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "number of paragraphs",
+"statValue": 1
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "SMOG-Grading",
+"statValue": 10.6
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "Lix",
+"statValue": 41.1
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "words count",
+"statValue": 952
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "shortNum",
+"statValue": 18
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "number of sentences",
+"statValue": 114
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "average words per sentence",
+"statValue": 8.4
+},{"type": "stat",
+"toolName": "style",
+"filename": "IFS_Test2_IPSUM.txt",
+"statName": "avg syllables",
+"statValue": 1.82
+}]
+}
+

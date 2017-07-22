@@ -1,0 +1,12 @@
+{
+"feedback": [
+{"severity": "-Wendif-labels", "filename": "array.h", "lineNum": "78", "toolName": "gcc", "charPos": "8", "type": "error", "feedback": "extra tokens at end of #endif directive "},
+{"severity": "-Wint-conversion", "filename": "array.c", "lineNum": "16", "toolName": "gcc", "charPos": "10", "type": "error", "feedback": "initialization makes integer from pointer without a cast "},
+{"severity": "-Wunused-variable", "filename": "array.c", "lineNum": "16", "toolName": "gcc", "charPos": "6", "type": "warning", "feedback": "unused variable \u2018n\u2019 "},
+{"feedback": "C++ style comments are not allowed in ISO C90", "filename": "array.c", "lineNum": "44", "toolName": "gcc", "charPos": "2", "type": "error"},
+{"feedback": "(this will be reported only once per input file)", "filename": "array.c", "lineNum": "44", "toolName": "gcc", "charPos": "2", "type": "error"},
+{"feedback": "\u2018for\u2019 loop initial declarations are only allowed in C99 or C11 mode", "filename": "array.c", "lineNum": "69", "toolName": "gcc", "charPos": "2", "type": "error"},
+{"feedback": "use option -std=c99, -std=gnu99, -std=c11 or -std=gnu11 to compile your code", "filename": "array.c", "lineNum": "69", "toolName": "gcc", "charPos": "2", "type": "note"}
+]
+}
+

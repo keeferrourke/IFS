@@ -1,0 +1,8 @@
+{
+"feedback": [
+{"severity": "-Wcomment,Lexical or Preprocessor Issue", "filename": "array.h", "lineNum": "78", "toolName": "clang", "charPos": "8", "type": "warning", "feedback": "// comments are not allowed in this language "},
+{"severity": "-Wcomment,Lexical or Preprocessor Issue", "filename": "array.c", "lineNum": "42", "toolName": "clang", "charPos": "2", "type": "warning", "feedback": "// comments are not allowed in this language "},
+{"severity": "-Werror,-Wc99-extensions,Parse Issue", "filename": "array.c", "lineNum": "67", "toolName": "clang", "charPos": "7", "type": "error", "feedback": "variable declaration in for loop is a C99-specific feature "}
+]
+}
+

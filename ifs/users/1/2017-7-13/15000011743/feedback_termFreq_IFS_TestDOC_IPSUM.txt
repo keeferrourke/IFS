@@ -1,0 +1,95 @@
+{
+"feedback": [
+{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "eu",
+"charPos": 23
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "ac",
+"charPos": 19
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "vel",
+"charPos": 19
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "ut",
+"charPos": 18
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "et",
+"charPos": 18
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "vitae",
+"charPos": 16
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "sed",
+"charPos": 15
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "amet",
+"charPos": 12
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "sit",
+"charPos": 12
+}
+,{
+"type": "visual",
+"route": "/cloud",
+"toolName": "Word Cloud",
+"wordCount":10,
+"filename": "users/1/2017-7-13/15000011743/IFS_TestDOC_IPSUM.txt",
+"feedback": "fermentum",
+"charPos": 11
+}
+]
+}
+

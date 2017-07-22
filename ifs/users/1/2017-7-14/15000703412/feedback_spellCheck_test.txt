@@ -1,0 +1,69 @@
+{
+    "feedback": [
+        {
+            "charNum": 63,
+            "charPos": 20,
+            "feedback": "Selected word not found in en_US dictionary",
+            "filename": "test.txt",
+            "lineNum": 1,
+            "suggestions": [
+                "something",
+                "sometime",
+                "toothsome",
+                "methinks",
+                "locksmithing"
+            ],
+            "target": "somethnig",
+            "toolName": "Spell Checker",
+            "type": "spelling",
+            "wordNum": 12,
+            "wordPos": 4
+        },
+        {
+            "charNum": 159,
+            "charPos": 53,
+            "feedback": "Selected word not found in en_US dictionary",
+            "filename": "test.txt",
+            "lineNum": 4,
+            "suggestions": [
+                "noter",
+                "another",
+                "a noter",
+                "anointer",
+                "annotate",
+                "anteater",
+                "nanometer",
+                "Anitra",
+                "anodize"
+            ],
+            "target": "anoter",
+            "toolName": "Spell Checker",
+            "type": "spelling",
+            "wordNum": 27,
+            "wordPos": 11
+        }
+    ],
+    "feedbackStats": [
+        {
+            "category": "spelling",
+            "filename": "test.txt",
+            "level": "basic",
+            "name": "correctWordCount",
+            "statName": "Correct Word Count",
+            "statValue": "31",
+            "toolName": "hunspell",
+            "type": "stat"
+        },
+        {
+            "category": "spelling",
+            "filename": "test.txt",
+            "level": "basic",
+            "name": "misspelledWordCount",
+            "statName": "Misspelled Word Count",
+            "statValue": "2",
+            "toolName": "hunspell",
+            "type": "stat"
+        }
+    ]
+}
+

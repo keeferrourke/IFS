@@ -1,0 +1,45 @@
+{
+"feedback": [
+{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-7-2/14990538382/testParagraphs.txt",
+"feedback": "lorem",
+"charPos": 8
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-7-2/14990538382/testParagraphs.txt",
+"feedback": "ipsum",
+"charPos": 8
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-7-2/14990538382/testParagraphs.txt",
+"feedback": "content",
+"charPos": 3
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-7-2/14990538382/testParagraphs.txt",
+"feedback": "injected",
+"charPos": 3
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-7-2/14990538382/testParagraphs.txt",
+"feedback": "humour",
+"charPos": 3
+}
+]
+}
+

@@ -1,0 +1,21 @@
+{ "feedback": [ {"lineNum": 1,
+"charPos": 33,
+"charNum": 33,
+"severity": "warning",
+"type": "recommendation",
+"toolName": "dictionStyle",
+"filename": "users/1/2017-6-29/14987917704/test.txt",
+"target": "could",
+"feedback": "do not confuse with \"may\""
+},{"lineNum": 5,
+"charPos": 50,
+"charNum": 156,
+"severity": "warning",
+"type": "recommendation",
+"toolName": "dictionStyle",
+"filename": "users/1/2017-6-29/14987917704/test.txt",
+"target": "one",
+"feedback": "When used as a pronoun, it  must be used consistently"
+}]
+}
+

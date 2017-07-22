@@ -1,0 +1,29 @@
+{
+"feedback": [
+{
+"toolName": "textSummarization",
+"type": "textSummarization",
+"filename": "users/1/2017-6-3/14964629839/testParagraphs.txt",
+"originalname": "testParagraphs.txt",
+"senCount":3,
+"feedback": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+}
+,{
+"toolName": "textSummarization",
+"type": "textSummarization",
+"filename": "users/1/2017-6-3/14964629839/testParagraphs.txt",
+"originalname": "testParagraphs.txt",
+"senCount":3,
+"feedback": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
+}
+,{
+"toolName": "textSummarization",
+"type": "textSummarization",
+"filename": "users/1/2017-6-3/14964629839/testParagraphs.txt",
+"originalname": "testParagraphs.txt",
+"senCount":3,
+"feedback": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+}
+]
+}
+

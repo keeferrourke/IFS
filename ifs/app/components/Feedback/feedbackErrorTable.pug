@@ -1,40 +1,38 @@
 h4 Generalized Feedback
-table.uk-table
-    if feedbackItems && feedbackItems.length != 0
-        thead
-            tr
-                th Tool Name
-                th Type
-                th Feedback
-                th File
-                th Line
-                th Char
-                th Target
+table(ng-if="feedbackItems && feedbackItems.length != 0").uk-table
+    thead
+        tr
+            th Tool Name
+            th Type
+            th Feedback
+            th File
+            th Line
+            th Char
+            th Target
 
-            // writing feeback
-            tbody
-                each f in feedbackItems
-                    if f.filename === ""
-                        tr
-                            td #{f.toolName}
-                            td #{f.type}
-                            td #{f.feedback}
-                            td ""
-                            td ""
-                            td ""
-                            td(style="font-family:monospace") #{f.decodedTarget}
-
-            // programming feedback
-            tbody
-                tr(ng-repeat="f in feedbackItems | filter:allowFeedbackType")
-                    td {{ f.toolName }}
-                    td {{ f.type }}
-                    td {{ f.feedback }}
-                    td {{ f.filename }}
-                    td {{ f.lineNum }}
-                    td {{ f.charPos }}
-                    td(style="font-family:monospace") {{f.decodedTarget}}
-    else
+        // writing feeback
         tbody
-            tr
-                td Congratulations, no errors were found!
+            tr(ng-repeat="f in feedbackItems | filter:generalFeedbackType")
+                td {{f.toolName}}
+                td {{f.type}}
+                td {{f.feedback}}
+                td ""
+                td ""
+                td ""
+                td(style="font-family:monospace") {{f.decodedTarget}}
+
+        // programming feedback
+        tbody
+            tr(ng-repeat="f in feedbackItems | filter:allowFeedbackType")
+                td {{ f.toolName }}
+                td {{ f.type }}
+                td {{ f.feedback }}
+                td {{ f.filename }}
+                td {{ f.lineNum }}
+                td {{ f.charPos }}
+                td(style="font-family:monospace") {{f.decodedTarget}}
+
+div(ng-if="feedbackItems && feedbackItems == 0")
+    tbody
+    tr
+       td Congratulations, no errors were found!

@@ -1,0 +1,9 @@
+{
+"feedback": [
+{"severity": "-Wunused-parameter", "filename": "testMain.c", "lineNum": "14", "toolName": "gcc", "charPos": "14", "type": "warning", "feedback": "unused parameter \u2018argc\u2019 "},
+{"severity": "-Wunused-parameter", "filename": "testMain.c", "lineNum": "14", "toolName": "gcc", "charPos": "28", "type": "warning", "feedback": "unused parameter \u2018argv\u2019 "},
+{"severity": "-Wunused-parameter", "filename": "main.c", "lineNum": "14", "toolName": "gcc", "charPos": "14", "type": "warning", "feedback": "unused parameter \u2018argc\u2019 "},
+{"severity": "-Wunused-parameter", "filename": "main.c", "lineNum": "14", "toolName": "gcc", "charPos": "28", "type": "warning", "feedback": "unused parameter \u2018argv\u2019 "}
+]
+}
+

@@ -1,0 +1,26 @@
+{
+    "feedback": [],
+    "feedbackStats": [
+        {
+            "category": "spelling",
+            "filename": "oddChars.txt",
+            "level": "basic",
+            "name": "correctWordCount",
+            "statName": "Correct Word Count",
+            "statValue": "10",
+            "toolName": "hunspell",
+            "type": "stat"
+        },
+        {
+            "category": "spelling",
+            "filename": "oddChars.txt",
+            "level": "basic",
+            "name": "misspelledWordCount",
+            "statName": "Misspelled Word Count",
+            "statValue": "0",
+            "toolName": "hunspell",
+            "type": "stat"
+        }
+    ]
+}
+

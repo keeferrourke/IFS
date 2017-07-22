@@ -1,0 +1,12 @@
+{ "feedback": [ {"lineNum": 2,
+"charPos": 26,
+"charNum": 83,
+"severity": "warning",
+"type": "recommendation",
+"toolName": "dictionStyle",
+"filename": "users/1/2017-6-30/14988137579/second.txt",
+"target": "could",
+"feedback": "do not confuse with \"may\""
+}]
+}
+

@@ -1,0 +1,6 @@
+{
+"feedback": [
+{"severity": "-Wcomment,Lexical or Preprocessor Issue", "filename": "hanoi.c", "lineNum": "1", "toolName": "clang", "charPos": "1", "type": "warning", "feedback": "// comments are not allowed in this language "}
+]
+}
+

@@ -1,0 +1,45 @@
+{
+"feedback": [
+{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988176851/test.txt",
+"feedback": "line",
+"charPos": 3
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988176851/test.txt",
+"feedback": "another",
+"charPos": 2
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988176851/test.txt",
+"feedback": "could",
+"charPos": 1
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988176851/test.txt",
+"feedback": "really",
+"charPos": 1
+}
+,{
+"type": "wordCloud",
+"toolName": "wordCloud",
+"wordCount":5,
+"filename": "users/1/2017-6-30/14988176851/test.txt",
+"feedback": "long",
+"charPos": 1
+}
+]
+}
+

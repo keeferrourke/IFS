@@ -1,0 +1,39 @@
+{
+    "feedback": [
+        {
+            "charPos": 35,
+            "context": "...sts. This is a test on things could be.   Lines and    spaces. This word should be...",
+            "feedback": "Possible typo: you repeated a whitespace",
+            "filename": "second.txt",
+            "hlBeginChar": 35,
+            "hlBeginLine": 2,
+            "hlEndChar": 37,
+            "hlEndLine": 2,
+            "lang": "en-US",
+            "lineNum": 2,
+            "suggestions": [
+                " "
+            ],
+            "toolName": "Language Tool",
+            "type": "whitespace"
+        },
+        {
+            "charPos": 46,
+            "context": "...s a test on things could be.   Lines and    spaces. This word should be somethnig.  ...",
+            "feedback": "Possible typo: you repeated a whitespace",
+            "filename": "second.txt",
+            "hlBeginChar": 46,
+            "hlBeginLine": 2,
+            "hlEndChar": 50,
+            "hlEndLine": 2,
+            "lang": "en-US",
+            "lineNum": 2,
+            "suggestions": [
+                " "
+            ],
+            "toolName": "Language Tool",
+            "type": "whitespace"
+        }
+    ]
+}
+

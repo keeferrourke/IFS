@@ -191,6 +191,6 @@ function setupVisualFeedback(visualTools) {
 }
 
 module.exports.setupFeedback = readFeedbackFormat;
-module.exports.readFileAndSetupFeedback = readFiles;
+//module.exports.readFileAndSetupFeedback = readFiles;
 module.exports.setupFeedbackStats = setupFeedbackStats;
 module.exports.setupVisualFeedback = setupVisualFeedback;

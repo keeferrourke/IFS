@@ -1,0 +1,11 @@
+{
+"feedback": [
+{"severity": "-Wendif-labels", "filename": "array.h", "lineNum": "78", "toolName": "clang", "charPos": "8", "type": "error", "feedback": "extra tokens at end of #endif directive "},
+{"severity": "-Wcomment,Lexical or Preprocessor Issue", "filename": "array.h", "lineNum": "78", "toolName": "clang", "charPos": "8", "type": "warning", "feedback": "// comments are not allowed in this language "},
+{"severity": "-Werror,-Wint-conversion,Value Conversion Issue", "filename": "array.c", "lineNum": "16", "toolName": "clang", "charPos": "6", "type": "error", "feedback": "incompatible pointer to integer conversion initializing 'int' with an expression of type 'char [6]' "},
+{"severity": "-Wunused-variable,Unused Entity Issue", "filename": "array.c", "lineNum": "16", "toolName": "clang", "charPos": "6", "type": "warning", "feedback": "unused variable 'n' "},
+{"severity": "-Wcomment,Lexical or Preprocessor Issue", "filename": "array.c", "lineNum": "44", "toolName": "clang", "charPos": "2", "type": "warning", "feedback": "// comments are not allowed in this language "},
+{"severity": "-Werror,-Wc99-extensions,Parse Issue", "filename": "array.c", "lineNum": "69", "toolName": "clang", "charPos": "7", "type": "error", "feedback": "variable declaration in for loop is a C99-specific feature "}
+]
+}
+
