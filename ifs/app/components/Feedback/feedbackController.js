@@ -103,11 +103,6 @@ app.controller( "feedbackCtrl", function($scope, $http, $sce) {
         if($scope.toolsUsed) {
             $scope.toolsUsed.unshift( "All" );
         }
-
-        for( var i= 0; i < $scope.files.length;i++) {
-            console.log($scope.files[i].markedUp);
-            //$scope.files[i].markedUp = $sce.trustAsHtml($scope.files[i].markedUp);
-        }
     });
 })
 .filter('unsafe', function($sce) { 
@@ -119,7 +114,6 @@ app.controller( "feedbackCtrl", function($scope, $http, $sce) {
     replace: true,
     link: function (scope, ele, attrs) {
       scope.$watch(attrs.dynamic, function(html) {
-        console.log(html);
         ele.html(html);
         $compile(ele.contents())(scope);
       });

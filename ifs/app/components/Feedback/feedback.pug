@@ -10,14 +10,13 @@ block scripts
 
 block content
     div(ng-controller="feedbackCtrl").uk-container
-        p {{files.length}}
         div(ng-if="files.length > 0")
             div.toolSelection
                 form(action="/feedback" method="post")#toolSelectionFrm.uk-form-horizontal
                     div
                         label(for="toolSelector").uk-form-label View feedback from tool:
                         div.uk-form-controls
-                            select(ng-model="toolSel" ng-options="tool for tool in toolsUsed track by tool"  ng-init="toolSel = filterByTool" onchange="this.form.submit()" value="{{tool}}" name="toolSelector")#toolSelectorId.uk-select
+                            select(ng-model="toolSel" ng-options="tool for tool in toolsUsed track by tool"  ng-init="toolSel = ( filterByTool ? filterByTool : toolsUsed[0])" onchange="this.form.submit()" value="{{tool}}" name="toolSelector")#toolSelectorId.uk-select
 
                     if visualTools && visualTools.length > 0
                         div(ng-repeat="vtool in visualTools")
