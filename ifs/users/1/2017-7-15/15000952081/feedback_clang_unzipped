@@ -1,9 +1,0 @@
-{
-"feedback": [
-{"severity": "-Wunused-parameter,Semantic Issue", "filename": "testMain.c", "lineNum": "14", "toolName": "clang", "charPos": "14", "type": "warning", "feedback": "unused parameter 'argc' "},
-{"severity": "-Wunused-parameter,Semantic Issue", "filename": "testMain.c", "lineNum": "14", "toolName": "clang", "charPos": "28", "type": "warning", "feedback": "unused parameter 'argv' "},
-{"severity": "-Wunused-parameter,Semantic Issue", "filename": "main.c", "lineNum": "14", "toolName": "clang", "charPos": "14", "type": "warning", "feedback": "unused parameter 'argc' "},
-{"severity": "-Wunused-parameter,Semantic Issue", "filename": "main.c", "lineNum": "14", "toolName": "clang", "charPos": "28", "type": "warning", "feedback": "unused parameter 'argv' "}
-]
-}
-

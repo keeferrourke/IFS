@@ -1,9 +1,0 @@
-{
-"feedback": [
-{"category": "nullPointerRedundantCheck", "feedback": "Either the condition 'arr!=0' is redundant or there is possible null pointer dereference: arr.", "filename": "testMain.c", "lineNum": "74", "toolName": "cppcheck", "type": "warning"},
-{"category": "unreadVariable", "feedback": "Variable 'testsPassed' is assigned a value that is never used.", "filename": "testMain.c", "lineNum": "100", "toolName": "cppcheck", "type": "style"},
-{"category": "unusedFunction", "feedback": "The function 'getLength' is never used.", "filename": "array.c", "lineNum": "53", "toolName": "cppcheck", "type": "style"},
-{"category": "missingIncludeSystem", "feedback": "Cppcheck cannot find all the include files (use --check-config for details)", "filename": "", "lineNum": "", "toolName": "cppcheck", "type": "information"}
-]
-}
-

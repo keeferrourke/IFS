@@ -1,7 +1,0 @@
-{
-"feedback": [
-{"category": "AssignmentAddressToInteger", "feedback": "Assigning a pointer to an integer is not portable.", "filename": "array.c", "lineNum": "16", "toolName": "cppcheck", "type": "portability"},
-{"category": "unreadVariable", "feedback": "Variable 'n' is assigned a value that is never used.", "filename": "array.c", "lineNum": "16", "toolName": "cppcheck", "type": "style"}
-]
-}
-

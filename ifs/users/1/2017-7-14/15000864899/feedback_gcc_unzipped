@@ -1,7 +1,0 @@
-{
-"feedback": [
-{"severity": "-Wint-conversion", "filename": "array.c", "lineNum": "16", "toolName": "gcc", "charPos": "10", "type": "error", "feedback": "initialization makes integer from pointer without a cast [-Wint-conversion]"},
-{"severity": "-Wunused-variable", "filename": "array.c", "lineNum": "16", "toolName": "gcc", "charPos": "6", "type": "warning", "feedback": "unused variable \u2018n\u2019 [-Wunused-variable]"}
-]
-}
-

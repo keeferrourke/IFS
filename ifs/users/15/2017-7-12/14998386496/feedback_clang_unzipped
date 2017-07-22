@@ -1,6 +1,0 @@
-{
-"feedback": [
-{"feedback": "incompatible pointer to integer conversion initializing 'int' with an expression of type 'char [6]' [-Wint-conversion]", "filename": "array.c", "lineNum": "16", "toolName": "clang", "charPos": "6", "type": "warning"}
-]
-}
-

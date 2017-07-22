@@ -1,7 +1,0 @@
-{
-"feedback": [
-{"lineNum": "1", "toolName": "gcc", "type": "error", "charPos": "1", "filename": "hanoi.c"},
-{"lineNum": "1", "toolName": "gcc", "type": "error", "charPos": "1", "filename": "hanoi.c"}
-]
-}
-
