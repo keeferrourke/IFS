@@ -45,6 +45,8 @@ function acceptableMimeType() {
             'application/json',
             'application/zip',
             'application/x-compressed-zip',
+            'application/x-zip-compressed',
+            'application/x-gzip',
             'application/x-tar',
             'application/x-gzip',
             'application/gzip'
